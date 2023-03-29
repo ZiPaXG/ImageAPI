@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sO98rpUh+/ZUxx+ULMZOLI3Aedr0yM+nhGwmJx4V29Pf3yv24GqUkaCbD2gqMIGHs2dIvj+Y2l6sO2DxIDYLOA==",
+  "dgSpecHash": "20CZJjEQx8++iH4n/AjFk3QNPDTBCEMERCszQQG1tWniX1BxypotjsrU4Lzbn3Up2OXu7oXXbfIjhug41ppi6w==",
   "success": true,
-  "projectFilePath": "D:\\C# WEB\\ASP\\ImagesAPI\\ImageSendApi\\ImageSendApi.csproj",
+  "projectFilePath": "D:\\C# WEB\\ASP\\ImagesAPI\\ImageAPI\\ImageSendApi\\ImageSendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shepe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
