@@ -1,0 +1,52 @@
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\appsettings.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\ImageSendApi.exe
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\ImageSendApi.deps.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\ImageSendApi.runtimeconfig.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\ImageSendApi.dll
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\bin\Debug\net7.0\ImageSendApi.pdb
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.csproj.AssemblyReference.cache
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.AssemblyInfoInputs.cache
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.AssemblyInfo.cs
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.csproj.CoreCompileInputs.cache
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.ImageSendApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ImageSendApi.props
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImageSendApi.props
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImageSendApi.props
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\scopedcss\bundle\ImageSendApi.styles.css
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.dll
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\refint\ImageSendApi.dll
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.pdb
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ImageSendApi.genruntimeconfig.cache
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Debug\net7.0\ref\ImageSendApi.dll
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\appsettings.Development.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\appsettings.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\ImageSendApi.exe
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\ImageSendApi.deps.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\ImageSendApi.runtimeconfig.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\ImageSendApi.dll
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\bin\Debug\net7.0\ImageSendApi.pdb
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.csproj.AssemblyReference.cache
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.AssemblyInfoInputs.cache
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.AssemblyInfo.cs
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.csproj.CoreCompileInputs.cache
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.ImageSendApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ImageSendApi.props
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImageSendApi.props
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImageSendApi.props
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\scopedcss\bundle\ImageSendApi.styles.css
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.dll
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\refint\ImageSendApi.dll
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.pdb
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ImageSendApi.genruntimeconfig.cache
+D:\C# WEB\ASP\ImagesAPI\ImageSendApi\obj\Debug\net7.0\ref\ImageSendApi.dll
